@@ -9,7 +9,7 @@ import os
 sensor = Adafruit_DHT.DHT22
 pin = 3
 
-NEXPIE_HOST = "jupiter.scg.com"
+NEXPIE_HOST = ""
 CLIENT_ID = ""
 DEVICE_TOKEN = ""
 
